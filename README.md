@@ -113,8 +113,4 @@ Two interactive games:
 
 ## Credits
 
-Developed by Saad Usmani for COE718 Embedded Systems Design course at Toronto Metropolitan University.
-
-## License
-
-©2024 IEEE. All rights reserved.
+Developed by Saad Usmani
